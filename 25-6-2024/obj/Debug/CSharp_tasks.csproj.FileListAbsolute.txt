@@ -1,0 +1,7 @@
+C:\Users\Orange\OneDrive\Desktop\CSharp_tasks\CSharp_tasks\CSharp_tasks\bin\Debug\CSharp_tasks.exe.config
+C:\Users\Orange\OneDrive\Desktop\CSharp_tasks\CSharp_tasks\CSharp_tasks\bin\Debug\CSharp_tasks.exe
+C:\Users\Orange\OneDrive\Desktop\CSharp_tasks\CSharp_tasks\CSharp_tasks\bin\Debug\CSharp_tasks.pdb
+C:\Users\Orange\OneDrive\Desktop\CSharp_tasks\CSharp_tasks\CSharp_tasks\obj\Debug\CSharp_tasks.csproj.AssemblyReference.cache
+C:\Users\Orange\OneDrive\Desktop\CSharp_tasks\CSharp_tasks\CSharp_tasks\obj\Debug\CSharp_tasks.csproj.CoreCompileInputs.cache
+C:\Users\Orange\OneDrive\Desktop\CSharp_tasks\CSharp_tasks\CSharp_tasks\obj\Debug\CSharp_tasks.exe
+C:\Users\Orange\OneDrive\Desktop\CSharp_tasks\CSharp_tasks\CSharp_tasks\obj\Debug\CSharp_tasks.pdb
