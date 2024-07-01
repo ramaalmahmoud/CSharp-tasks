@@ -1,0 +1,85 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Orange\\OneDrive\\Desktop\\CSharp-tasks\\1-7-2024\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4D773BF7-0DA7-40E4-A5DA-E866DB86E8DD}|1-7-2024\\1-7-2024.csproj|c:\\users\\orange\\onedrive\\desktop\\csharp-tasks\\1-7-2024\\1-7-2024\\bmw.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D773BF7-0DA7-40E4-A5DA-E866DB86E8DD}|1-7-2024\\1-7-2024.csproj|solutionrelative:1-7-2024\\bmw.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D773BF7-0DA7-40E4-A5DA-E866DB86E8DD}|1-7-2024\\1-7-2024.csproj|c:\\users\\orange\\onedrive\\desktop\\csharp-tasks\\1-7-2024\\1-7-2024\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D773BF7-0DA7-40E4-A5DA-E866DB86E8DD}|1-7-2024\\1-7-2024.csproj|solutionrelative:1-7-2024\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D773BF7-0DA7-40E4-A5DA-E866DB86E8DD}|1-7-2024\\1-7-2024.csproj|c:\\users\\orange\\onedrive\\desktop\\csharp-tasks\\1-7-2024\\1-7-2024\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D773BF7-0DA7-40E4-A5DA-E866DB86E8DD}|1-7-2024\\1-7-2024.csproj|solutionrelative:1-7-2024\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 302,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BMW.cs",
+              "DocumentMoniker": "C:\\Users\\Orange\\OneDrive\\Desktop\\CSharp-tasks\\1-7-2024\\1-7-2024\\BMW.cs",
+              "RelativeDocumentMoniker": "1-7-2024\\BMW.cs",
+              "ToolTip": "C:\\Users\\Orange\\OneDrive\\Desktop\\CSharp-tasks\\1-7-2024\\1-7-2024\\BMW.cs",
+              "RelativeToolTip": "1-7-2024\\BMW.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-01T19:16:01.382Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Car.cs",
+              "DocumentMoniker": "C:\\Users\\Orange\\OneDrive\\Desktop\\CSharp-tasks\\1-7-2024\\1-7-2024\\Car.cs",
+              "RelativeDocumentMoniker": "1-7-2024\\Car.cs",
+              "ToolTip": "C:\\Users\\Orange\\OneDrive\\Desktop\\CSharp-tasks\\1-7-2024\\1-7-2024\\Car.cs",
+              "RelativeToolTip": "1-7-2024\\Car.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAAAEEAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-01T19:14:35.075Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Orange\\OneDrive\\Desktop\\CSharp-tasks\\1-7-2024\\1-7-2024\\Program.cs",
+              "RelativeDocumentMoniker": "1-7-2024\\Program.cs",
+              "ToolTip": "C:\\Users\\Orange\\OneDrive\\Desktop\\CSharp-tasks\\1-7-2024\\1-7-2024\\Program.cs",
+              "RelativeToolTip": "1-7-2024\\Program.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAACQAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-01T19:12:13.052Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedHeight": 90,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
