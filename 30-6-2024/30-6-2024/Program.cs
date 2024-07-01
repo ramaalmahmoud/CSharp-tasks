@@ -1,6 +1,7 @@
 ﻿
 
 using System;
+using System.Collections.Generic;
 using System.Runtime.Remoting.Messaging;
 
 namespace _30_6_2024
@@ -35,8 +36,15 @@ namespace _30_6_2024
             {
                 arrYears[i] = Convert.ToInt32(Console.ReadLine());
             }
-            int countYears=getYear(arrYears);
-            Console.WriteLine($"The numbers of the years that greater than 1950 is: {countYears}");
+            int[] y=getYear(arrYears);
+            Console.WriteLine("The  years that greater than 1950 is: ");
+            for (int i = 0; i < y.Length; i++)
+            {
+                
+                    Console.Write(y[i]+" ");
+                
+            }
+            
             
             Console.WriteLine();
             Console.WriteLine();
@@ -82,14 +90,20 @@ namespace _30_6_2024
         }
 
         //3 
-        static int getYear(int[] years) {
-            int count = 0;
+        static int[] getYear(int[] years) {
+            List<int> yearList = new List<int>();
+          
         for (int i = 0;i < years.Length;i++) {
                 if (years[i] > 1950)
-                {count++;}
+                {
+                    yearList.Add( years[i]);
+                    
 
                 }
-        return count;
+
+                }
+            return yearList.ToArray();
+       
         }
 
         //4
