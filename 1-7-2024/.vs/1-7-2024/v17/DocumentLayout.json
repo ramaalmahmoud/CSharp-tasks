@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\Orange\\OneDrive\\Desktop\\CSharp-tasks\\1-7-2024\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4D773BF7-0DA7-40E4-A5DA-E866DB86E8DD}|1-7-2024\\1-7-2024.csproj|c:\\users\\orange\\onedrive\\desktop\\csharp-tasks\\1-7-2024\\1-7-2024\\bmw.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{4D773BF7-0DA7-40E4-A5DA-E866DB86E8DD}|1-7-2024\\1-7-2024.csproj|c:\\users\\orange\\onedrive\\desktop\\csharp-tasks\\1-7-2024\\1-7-2024\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D773BF7-0DA7-40E4-A5DA-E866DB86E8DD}|1-7-2024\\1-7-2024.csproj|solutionrelative:1-7-2024\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D773BF7-0DA7-40E4-A5DA-E866DB86E8DD}|1-7-2024\\1-7-2024.csproj|C:\\Users\\Orange\\OneDrive\\Desktop\\CSharp-tasks\\1-7-2024\\1-7-2024\\bmw.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4D773BF7-0DA7-40E4-A5DA-E866DB86E8DD}|1-7-2024\\1-7-2024.csproj|solutionrelative:1-7-2024\\bmw.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4D773BF7-0DA7-40E4-A5DA-E866DB86E8DD}|1-7-2024\\1-7-2024.csproj|c:\\users\\orange\\onedrive\\desktop\\csharp-tasks\\1-7-2024\\1-7-2024\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{4D773BF7-0DA7-40E4-A5DA-E866DB86E8DD}|1-7-2024\\1-7-2024.csproj|C:\\Users\\Orange\\OneDrive\\Desktop\\CSharp-tasks\\1-7-2024\\1-7-2024\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4D773BF7-0DA7-40E4-A5DA-E866DB86E8DD}|1-7-2024\\1-7-2024.csproj|solutionrelative:1-7-2024\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4D773BF7-0DA7-40E4-A5DA-E866DB86E8DD}|1-7-2024\\1-7-2024.csproj|c:\\users\\orange\\onedrive\\desktop\\csharp-tasks\\1-7-2024\\1-7-2024\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4D773BF7-0DA7-40E4-A5DA-E866DB86E8DD}|1-7-2024\\1-7-2024.csproj|solutionrelative:1-7-2024\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,39 +30,39 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "BMW.cs",
               "DocumentMoniker": "C:\\Users\\Orange\\OneDrive\\Desktop\\CSharp-tasks\\1-7-2024\\1-7-2024\\BMW.cs",
               "RelativeDocumentMoniker": "1-7-2024\\BMW.cs",
               "ToolTip": "C:\\Users\\Orange\\OneDrive\\Desktop\\CSharp-tasks\\1-7-2024\\1-7-2024\\BMW.cs",
               "RelativeToolTip": "1-7-2024\\BMW.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAaAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAC0AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-01T19:16:01.382Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Car.cs",
               "DocumentMoniker": "C:\\Users\\Orange\\OneDrive\\Desktop\\CSharp-tasks\\1-7-2024\\1-7-2024\\Car.cs",
               "RelativeDocumentMoniker": "1-7-2024\\Car.cs",
               "ToolTip": "C:\\Users\\Orange\\OneDrive\\Desktop\\CSharp-tasks\\1-7-2024\\1-7-2024\\Car.cs",
               "RelativeToolTip": "1-7-2024\\Car.cs",
-              "ViewState": "AQIAABkAAAAAAAAAAAAAAEEAAAAJAAAA",
+              "ViewState": "AQIAABUAAAAAAAAAAAAIwCEAAAB1AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-01T19:14:35.075Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Orange\\OneDrive\\Desktop\\CSharp-tasks\\1-7-2024\\1-7-2024\\Program.cs",
               "RelativeDocumentMoniker": "1-7-2024\\Program.cs",
               "ToolTip": "C:\\Users\\Orange\\OneDrive\\Desktop\\CSharp-tasks\\1-7-2024\\1-7-2024\\Program.cs",
               "RelativeToolTip": "1-7-2024\\Program.cs",
-              "ViewState": "AQIAAAwAAAAAAAAAAAAAACQAAAAfAAAA",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAqwCEAAABaAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-01T19:12:13.052Z",
               "EditorCaption": ""

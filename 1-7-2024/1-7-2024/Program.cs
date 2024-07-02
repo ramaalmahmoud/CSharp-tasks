@@ -25,13 +25,13 @@ namespace _1_7_2024
             int Number = Convert.ToInt32(Console.ReadLine());
             Console.WriteLine("Enter Car's color");
             string Color = Console.ReadLine();
-            Console.WriteLine("Start the car");
+            Console.WriteLine("Do you want to Start the car?");
             bool Engine = Convert.ToBoolean(Console.ReadLine());
             Car car = new Car(Make, Year, Type, Price, Model, Number, Color, Engine);
             Console.WriteLine(car.fullInfo());
             car.startAndStop();
 
-            BMW bmw = new BMW();
+            BMW bmw = new BMW("Hundy", 2022, "sport", 22000, "accent", 1234, "white", true);
             Console.WriteLine(bmw.fullInfo());
 
             bmw.startAndStop();
