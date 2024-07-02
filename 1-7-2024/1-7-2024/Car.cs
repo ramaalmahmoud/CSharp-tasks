@@ -65,5 +65,28 @@ namespace _1_7_2024
             return $"Make: {Make}, Year: {Year}, Type: {Type}, Price: {Price}, Model: {Model}, Number: {Number}, Color: {Color}";
 
         }
+
+        public void DisplayInfo(string make , int year)
+        {
+            Console.WriteLine($"Make: {Make}");
+
+        }
+        public void DisplayInfo(string make)
+        {
+            Console.WriteLine($"Make:{Make}");
+
+        }
+        public void Display()
+        {
+            Console.WriteLine("Welcome Car");
+        }
+
+        public virtual void go()
+        {
+            Console.WriteLine("The car is moving");
+
+        }
+
+
     }
 }

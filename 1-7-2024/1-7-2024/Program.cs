@@ -9,8 +9,8 @@ namespace _1_7_2024
 {
     internal class Program
     {
-        static void Main(string[] args)
-        {
+        static void Main(string[] args) {
+
             Console.WriteLine("Enter Car's make");
             string Make = Console.ReadLine();
             Console.WriteLine("Enter Car's year");
@@ -33,8 +33,18 @@ namespace _1_7_2024
 
             BMW bmw = new BMW("Hundy", 2022, "sport", 22000, "accent", 1234, "white", true);
             Console.WriteLine(bmw.fullInfo());
+            
 
             bmw.startAndStop();
+
+
+            Car bmw1 = new BMW();
+            bmw1.Display();
+
+            Car bmw2 = new BMW();
+            bmw2.go();
+
+
 
         }
     }
