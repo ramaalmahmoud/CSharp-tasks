@@ -115,7 +115,7 @@
 
               </div>
               <div class="col-md-9 pe-5">
-                  <asp:TextBox ID="TextArea1" cols="20" rows="2" runat="server"></asp:TextBox>
+                  <asp:TextBox ID="TextArea1" cols="20" Rows="2" runat="server" TextMode="MultiLine"></asp:TextBox>
                 
 
               </div>
